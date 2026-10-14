@@ -1,14 +1,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=180&section=header&text=YAN%20ARDIANSYAH&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Web%20Developer%20%7C%20SIJA%20Student&descSize=16&descAlignY=65&descColor=94A3B8" width="100%" alt="Yan Ardiansyah"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=180&section=header&text=VALLTHORION&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Web%20Developer%20%7C%20SIJA%20Student&descSize=16&descAlignY=65&descColor=94A3B8" width="100%" alt="Vallthorion"/>
 
 <p>
-  <a href="https://github.com/YanArdiansyah-byte">
-    <img src="https://komarev.com/ghpvc/?username=YanArdiansyah-byte&style=flat-square&color=334155&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <a href="https://github.com/Vallthorion">
+    <img src="https://komarev.com/ghpvc/?username=Vallthorion&style=flat-square&color=334155&label=PROFILE+VIEWS" alt="Profile Views"/>
   </a>
-  <a href="https://github.com/YanArdiansyah-byte?tab=followers">
-    <img src="https://img.shields.io/github/followers/YanArdiansyah-byte?style=flat-square&color=334155&label=FOLLOWERS" alt="GitHub Followers"/>
+  <a href="https://github.com/Vallthorion?tab=followers">
+    <img src="https://img.shields.io/github/followers/Vallthorion?style=flat-square&color=334155&label=FOLLOWERS" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -55,7 +55,7 @@ My current focus is improving my skills in frontend and backend development whil
 A web-based calculator developed to practice fundamental programming concepts and interactive user interfaces.
 
 - Technologies: HTML, CSS, JavaScript
-- Repository: [kalkulator-sederhana](https://github.com/YanArdiansyah-byte/kalkulator-sederhana)
+- Repository: [kalkulator-sederhana](https://github.com/Vallthorion/kalkulator-sederhana)
 
 ### IoT Monitoring Dashboard
 
@@ -81,11 +81,11 @@ Projects exploring automation, API integration, and bot development for practica
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YanArdiansyah-byte&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&include_all_commits=true" alt="GitHub Statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vallthorion&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=94A3B8&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YanArdiansyah-byte&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=94A3B8&langs_count=6" alt="Most Used Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vallthorion&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=94A3B8&langs_count=6" alt="Most Used Languages"/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=YanArdiansyah-byte&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Contribution Streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=Vallthorion&theme=transparent&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -105,11 +105,8 @@ Projects exploring automation, API integration, and bot development for practica
 
 <div align="left">
 
-<a href="https://github.com/YanArdiansyah-byte">
-  <img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-<a href="https://instagram.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-Profile-0F172A?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Profile"/>
+<a href="https://github.com/Vallthorion">
+  <img src="https://img.shields.io/badge/GitHub-Vallthorion-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 </div>
@@ -121,4 +118,3 @@ Projects exploring automation, API integration, and bot development for practica
 *Continuously learning. Consistently building. Always improving.*
 
 </div>
-
