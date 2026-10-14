@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=180&section=header&text=VALLTHORION&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Web%20Developer%20%7C%20SIJA%20Student&descSize=16&descAlignY=65&descColor=94A3B8" width="100%" alt="Vallthorion"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=180&section=header&text=VALLTHORION&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Web%20Developer%20%7C%20SIJA%20Student&descSize=16&descAlignY=65&descColor=94A3B8" width="100%" alt="Yan Ardiansyah"/>
 
 <p>
   <a href="https://github.com/Vallthorion">
